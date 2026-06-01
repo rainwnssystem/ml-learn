@@ -15,6 +15,8 @@ Machine Learning에 대해 학습 후 실습한 자료들을 정리합니다.
     * [SVM - 당뇨병 분류](./svm_sklearn_iris.ipynb)
     * [SVM - 붓꽃 분류](./svm_sklearn_iris.ipynb)
 
+    * [XGBoost - 붓꽃 분류](./xgboost_iris.md)
+
   * Regression
     * [Single Linear Regression - 공부 시간에 따른 점수 예측](./linear_reg_sklearn_marks.ipynb)
     * [Multiple Linear Regression - 공부 시간에 따른 점수 예측](./multiple_linear_reg_sklearn_marks.ipynb)
